@@ -1,0 +1,20 @@
+/* .App {
+  text-align: center;
+} */
+body{
+  overflow-x: hidden;
+}
+
+.footer-custom ul li{
+  list-style: none;
+}
+/* when someone hover on images in mini tv component */
+.mini-tv img:hover{
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+/* miniTv image css */
+.mini-tv img {
+ border-radius: 20px;
+}
+
